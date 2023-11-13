@@ -1,6 +1,6 @@
 # Sales-Performance-Report-DQLab-Store
 
-This project describes the sales performance in DQLab Store from 2019 to 2012.
+This project describes the sales performance in DQLab Store from 2009 to 2012.
 
 I created the analysis using python and ran the codes in Google Collab.
 
