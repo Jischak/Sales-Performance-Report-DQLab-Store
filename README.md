@@ -1,19 +1,15 @@
 # Sales-Performance-Report-DQLab-Store
 
-This project explain about the sales performance in DQLab Store from 2019 until 2012.
+This project describes the sales performance in DQLab Store from 2019 to 2012.
 
-I create the analyze use python and run the codes on Google Collab.
+I created the analysis using python and ran the codes in Google Collab.
 
-This is the dataset that i use:
+This is the dataset I used:
 
-link -> https://drive.google.com/drive/folders/18UqpL9ljZTJUzxEUno8R7oaP_0MJtSLG?usp=sharing
+Dataset -> https://drive.google.com/drive/folders/18UqpL9ljZTJUzxEUno8R7oaP_0MJtSLG?usp=sharing
 
-If you want to see the codes, open the notebook.py file.
+If you want to see the code, open the notebook.py file.
 
-Also, you can check my portfolio about this project:
+You can also see my portfolio about this project:
 
-link -> https://drive.google.com/drive/folders/1_sXvHGmDowbI1nt64LPj7IqbUrBaIPnZ?usp=sharing
-
-
-
-
+Portfolio -> https://drive.google.com/drive/folders/1_sXvHGmDowbI1nt64LPj7IqbUrBaIPnZ?usp=sharing
